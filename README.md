@@ -20,9 +20,9 @@ Published documentation:
 
 https://securedme-main-dev.github.io/test/
 
-GitHub Wiki:
+Hosted wiki section:
 
-https://github.com/SeCuReDmE-main-dev/test/wiki
+https://securedme-main-dev.github.io/test/wiki/
 
 Primary documentation lives in:
 
@@ -36,7 +36,7 @@ First live test report:
 
 `docs/tests/001-cpanel-subdomain-create.md`
 
-GitHub Wiki source mirror:
+GitHub Wiki source mirror, ready for native Wiki initialization:
 
 `wiki/`
 
