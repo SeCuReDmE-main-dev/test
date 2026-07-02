@@ -23,12 +23,20 @@ theme:
     - content.code.copy
     - toc.follow
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: indigo
       accent: deep purple
-    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark Education mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: indigo
       accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light Education mode
 
 extra_css:
   - stylesheets/securedme-education.css
