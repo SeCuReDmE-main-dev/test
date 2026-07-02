@@ -34,6 +34,7 @@ Full report:
 
 ## Documentation Areas
 
+- [Capability Matrix](plugin-capability-matrix/index.md): 40 public plugin capability tests and reusable prompts.
 - [Wiki](wiki/index.md): navigation, documentation standards, and source map.
 - [Tests](tests/index.md): executed and planned test records.
 - [API Surface](api-surface/index.md): cPanel, DNS, SSL, email, deployment, and suite mapping surfaces.

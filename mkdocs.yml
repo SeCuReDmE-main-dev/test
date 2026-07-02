@@ -57,6 +57,17 @@ nav:
       - Navigation Map: wiki/navigation-map.md
       - Documentation Standard: wiki/documentation-standard.md
       - GitHub Wiki Hosting: wiki/github-wiki-hosting.md
+  - Capability Matrix:
+      - Overview: plugin-capability-matrix/index.md
+      - Prompt Catalog: plugin-capability-matrix/prompt-catalog.md
+      - "Tests 001-005": plugin-capability-matrix/tests-001-005.md
+      - "Tests 006-010": plugin-capability-matrix/tests-006-010.md
+      - "Tests 011-015": plugin-capability-matrix/tests-011-015.md
+      - "Tests 016-020": plugin-capability-matrix/tests-016-020.md
+      - "Tests 021-025": plugin-capability-matrix/tests-021-025.md
+      - "Tests 026-030": plugin-capability-matrix/tests-026-030.md
+      - "Tests 031-035": plugin-capability-matrix/tests-031-035.md
+      - "Tests 036-040": plugin-capability-matrix/tests-036-040.md
   - Personal Test Docs:
       - SecuredMe Personal Test Docs: personal/index.md
       - cPanel Operator Lab Notes: personal/cpanel-operator-lab.md
@@ -83,6 +94,8 @@ nav:
       - Email And SSL: api-surface/email-ssl.md
       - Deployment Planning: api-surface/deployment-planning.md
   - Runbooks:
+      - SecuredMe Education First Week: runbooks/securedme-education-first-week.md
+      - Prompting And Fabrication Guide: runbooks/prompting-and-fabrication-guide.md
       - Public Test Protocol: runbooks/public-test-protocol.md
       - Live Mutation Gate: runbooks/live-mutation-gate.md
       - Result Capture Template: runbooks/result-capture-template.md
