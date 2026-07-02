@@ -1,0 +1,53 @@
+{
+  "source_root": "C:/Users/jeans/Desktop/Case study/modele/_website/SeCuReDmE_website/assets",
+  "public_target": "docs/assets/education",
+  "palette": {
+    "deep_navy": "#161B6A",
+    "electric_blue": "#23B8FF",
+    "vivid_violet": "#6F42FF",
+    "light_gray": "#D9DDE5",
+    "white": "#FFFFFF"
+  },
+  "assets": [
+    {
+      "source_name": "Wide Banner Dark Thin Education Tier.png",
+      "target_name": "banner-dark-education-tier.png",
+      "dimensions": "2172x724",
+      "size_bytes": 1638660,
+      "sha256": "aab2c2707fda25f5bc6248c995ab25386d0d99cf8b5a8740e6bd4a6ec49585e7",
+      "use": "dark-mode hero banner"
+    },
+    {
+      "source_name": "Wide Banner Light Thin Education Tier.png",
+      "target_name": "banner-light-education-tier.png",
+      "dimensions": "2172x724",
+      "size_bytes": 1351306,
+      "sha256": "d060e45a1f385d0cabdfbbe8b95b8054fdebabc0fef1bc953696d5e5e962362d",
+      "use": "light-mode hero banner"
+    },
+    {
+      "source_name": "education template solo.png",
+      "target_name": "education-icon.png",
+      "dimensions": "198x186",
+      "size_bytes": 42496,
+      "sha256": "c793d4b2e76890157471e07668906de925541e2623856356f838619312e15417",
+      "use": "site logo, favicon, page ribbon mark"
+    },
+    {
+      "source_name": "Logo Dark Education Tier.png",
+      "target_name": "logo-dark-education-tier.png",
+      "dimensions": "1254x1254",
+      "size_bytes": 1202412,
+      "sha256": "bdd9b6d8ba70b5e889d459b2c82bf8cdd3bd7d97ad14f777a9679ae23ccb0594",
+      "use": "dark brand reference"
+    },
+    {
+      "source_name": "Logo Education Tier.png",
+      "target_name": "logo-light-education-tier.png",
+      "dimensions": "1254x1254",
+      "size_bytes": 1004993,
+      "sha256": "7aed6659d6b0fa8666d411dea45bc12ee834c9f1e2f95778a3d1f4b936d57c44",
+      "use": "light brand reference"
+    }
+  ]
+}

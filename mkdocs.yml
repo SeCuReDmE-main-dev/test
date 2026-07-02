@@ -1,5 +1,5 @@
-site_name: SeCuReDmE cPanel API Surface Test Lab
-site_description: Public documentation for SecuredMe cPanel operator API surface tests.
+site_name: SecuredMe Education
+site_description: Public Education runbooks, plugin capability tests, and redacted evidence for the SecuredMe suite.
 site_url: https://securedme-main-dev.github.io/test/
 repo_url: https://github.com/SeCuReDmE-main-dev/test
 repo_name: SeCuReDmE-main-dev/test
@@ -8,8 +8,9 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
-  logo: assets/securedme-mark.svg
-  favicon: assets/securedme-mark.svg
+  custom_dir: overrides
+  logo: assets/education/education-icon.png
+  favicon: assets/education/education-icon.png
   features:
     - navigation.instant
     - navigation.tracking
@@ -23,11 +24,14 @@ theme:
     - toc.follow
   palette:
     - scheme: default
-      primary: red
-      accent: blue
+      primary: indigo
+      accent: deep purple
     - scheme: slate
-      primary: red
+      primary: indigo
       accent: cyan
+
+extra_css:
+  - stylesheets/securedme-education.css
 
 markdown_extensions:
   - admonition
@@ -96,6 +100,7 @@ nav:
   - Runbooks:
       - SecuredMe Education First Week: runbooks/securedme-education-first-week.md
       - Prompting And Fabrication Guide: runbooks/prompting-and-fabrication-guide.md
+      - cPanel Education Live Deploy Plan: runbooks/cpanel-education-live-deploy-plan.md
       - Public Test Protocol: runbooks/public-test-protocol.md
       - Live Mutation Gate: runbooks/live-mutation-gate.md
       - Result Capture Template: runbooks/result-capture-template.md
