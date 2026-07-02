@@ -23,3 +23,5 @@ dry-run path available
 ```
 
 Without those conditions, the controller returns a dry-run plan or a blocked state.
+
+This rule applies to GitHub, cPanel, webhook, documentation publishing, and any future bridge action.

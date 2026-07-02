@@ -32,3 +32,13 @@ Additional safe read tools expose cPanel domains and Education mesh status.
 ## Policy
 
 Default mode is dry-run. Live writes require explicit execution intent and an active session.
+
+## Known Limits
+
+| Area | Current boundary |
+| --- | --- |
+| GitHub live writes | Implemented as gated flows; not executed by default. |
+| cPanel live writes | Planned through the cPanel bridge; no mutation without explicit authorization. |
+| Webhook receiver | Local FastAPI endpoint; public exposure needs a separate deployment/security pass. |
+| Connector secrets | External connectors remain external; secrets are not copied. |
+| Education scope | Bound to the 11 Education/MVP repositories only. |
