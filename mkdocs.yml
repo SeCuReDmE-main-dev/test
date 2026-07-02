@@ -71,6 +71,11 @@ nav:
       - CodeProject.AI Mesh Contract: education-mesh/codeproject-ai-mesh-contract.md
       - 11 Repository Readiness: education-mesh/11-repository-readiness.md
       - MCP Mesh Tools: education-mesh/mcp-mesh-tools.md
+  - Education Controller:
+      - Controller Overview: controller/index.md
+      - Session Gate: controller/session-gate.md
+      - GitHub cPanel Webhooks: controller/github-cpanel-webhooks.md
+      - Plugin Registry: controller/plugin-registry.md
   - API Surface:
       - Overview: api-surface/index.md
       - cPanel UAPI: api-surface/cpanel-uapi.md
