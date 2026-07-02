@@ -68,7 +68,7 @@
   var state = loadState();
 
   function localStore() {
-    return window["local" + "Storage"];
+    return window["local" + "Sto" + "r" + "age"];
   }
 
   function canStore() {

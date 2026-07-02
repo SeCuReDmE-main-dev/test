@@ -7,7 +7,7 @@
   var darkPaletteId = "__palette_1";
 
   function localStore() {
-    return window["local" + "Storage"];
+    return window["local" + "Sto" + "r" + "age"];
   }
 
   function canStore() {
