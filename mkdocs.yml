@@ -56,6 +56,10 @@ nav:
       - Wiki Home: wiki/index.md
       - Navigation Map: wiki/navigation-map.md
       - Documentation Standard: wiki/documentation-standard.md
+      - GitHub Wiki Hosting: wiki/github-wiki-hosting.md
+  - Personal Test Docs:
+      - SecuredMe Personal Test Docs: personal/index.md
+      - cPanel Operator Lab Notes: personal/cpanel-operator-lab.md
   - Tests:
       - Test Index: tests/index.md
       - "001: cPanel Subdomain Creation": tests/001-cpanel-subdomain-create.md
@@ -77,4 +81,3 @@ nav:
       - Roadmap: status/roadmap.md
   - Decisions:
       - "0001: Documentation Stack": decisions/0001-documentation-stack.md
-

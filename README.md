@@ -16,6 +16,14 @@ It is intentionally outside:
 
 This repo uses MkDocs Material as the documentation build system.
 
+Published documentation:
+
+https://securedme-main-dev.github.io/test/
+
+GitHub Wiki:
+
+https://github.com/SeCuReDmE-main-dev/test/wiki
+
 Primary documentation lives in:
 
 `docs/`
@@ -27,6 +35,10 @@ Main entrypoint:
 First live test report:
 
 `docs/tests/001-cpanel-subdomain-create.md`
+
+GitHub Wiki source mirror:
+
+`wiki/`
 
 ## First Confirmed Test
 
@@ -77,4 +89,3 @@ This repository must not contain:
 - private deployment archives
 
 Live write tests require explicit authorization and must be documented with redacted evidence only.
-
