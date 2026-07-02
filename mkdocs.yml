@@ -40,6 +40,12 @@ theme:
 
 extra_css:
   - stylesheets/securedme-education.css
+  - stylesheets/securedme-theme-toggle.css
+  - stylesheets/securedme-accessibility.css
+
+extra_javascript:
+  - javascripts/securedme-theme-toggle.js
+  - javascripts/securedme-accessibility.js
 
 markdown_extensions:
   - admonition
@@ -64,6 +70,8 @@ plugins:
 
 nav:
   - Home: index.md
+  - Accessibility:
+      - Edge User Console: accessibility/edge-user-console.md
   - Wiki:
       - Wiki Home: wiki/index.md
       - Navigation Map: wiki/navigation-map.md
