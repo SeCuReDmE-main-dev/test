@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="SecuredMe mark">
+  <rect width="128" height="128" rx="20" fill="#111827"/>
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#ef4444" stroke-width="10"/>
+  <path d="M64 25v78M25 64h78M35 38l58 52M93 38 35 90" fill="none" stroke="#e5e7eb" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="64" cy="64" r="10" fill="#38bdf8"/>
+</svg>
