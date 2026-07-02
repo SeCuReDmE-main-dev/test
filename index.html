@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Public documentation for SecuredMe cPanel operator API surface tests.">
+        <meta name="description" content="Public Education runbooks, plugin capability tests, and redacted evidence for the SecuredMe suite.">
       
       
       
@@ -20,12 +20,12 @@
         
       
       
-      <link rel="icon" href="assets/securedme-mark.svg">
+      <link rel="icon" href="assets/education/education-icon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
       
-        <title>SeCuReDmE cPanel API Surface Test Lab</title>
+        <title>SecuredMe Education</title>
       
     
     
@@ -51,6 +51,8 @@
       
     
     
+      <link rel="stylesheet" href="stylesheets/securedme-education.css">
+    
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -67,7 +69,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="blue">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="deep-purple">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -76,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#securedme-cpanel-api-surface-test-lab" class="md-skip">
+        <a href="#start-here-commencer-ici" class="md-skip">
           Skip to content
         </a>
       
@@ -92,9 +94,9 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="." title="SeCuReDmE cPanel API Surface Test Lab" class="md-header__button md-logo" aria-label="SeCuReDmE cPanel API Surface Test Lab" data-md-component="logo">
+    <a href="." title="SecuredMe Education" class="md-header__button md-logo" aria-label="SecuredMe Education" data-md-component="logo">
       
-  <img src="assets/securedme-mark.svg" alt="logo">
+  <img src="assets/education/education-icon.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -105,7 +107,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            SeCuReDmE cPanel API Surface Test Lab
+            SecuredMe Education
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -124,13 +126,13 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="blue"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="deep-purple"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
     
   
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="cyan"  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="cyan"  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
     
   
 </form>
@@ -221,12 +223,12 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="." title="SeCuReDmE cPanel API Surface Test Lab" class="md-nav__button md-logo" aria-label="SeCuReDmE cPanel API Surface Test Lab" data-md-component="logo">
+    <a href="." title="SecuredMe Education" class="md-nav__button md-logo" aria-label="SecuredMe Education" data-md-component="logo">
       
-  <img src="assets/securedme-mark.svg" alt="logo">
+  <img src="assets/education/education-icon.png" alt="logo">
 
     </a>
-    SeCuReDmE cPanel API Surface Test Lab
+    SecuredMe Education
   </label>
   
     <div class="md-nav__source">
@@ -310,6 +312,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#what-you-can-do-first" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What You Can Do First
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#current-status" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -321,10 +334,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#first-live-result" class="md-nav__link">
+  <a href="#core-question" class="md-nav__link">
     <span class="md-ellipsis">
       
-        First Live Result
+        Core Question
       
     </span>
   </a>
@@ -1739,6 +1752,8 @@
       
         
       
+        
+      
     
     
     
@@ -1829,6 +1844,34 @@
     
   
     Prompting And Fabrication Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="runbooks/cpanel-education-live-deploy-plan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    cPanel Education Live Deploy Plan
   
 
     
@@ -2329,6 +2372,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#what-you-can-do-first" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What You Can Do First
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#current-status" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2340,10 +2394,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#first-live-result" class="md-nav__link">
+  <a href="#core-question" class="md-nav__link">
     <span class="md-ellipsis">
       
-        First Live Result
+        Core Question
       
     </span>
   </a>
@@ -2392,12 +2446,66 @@
   
 
 
-<h1 id="securedme-cpanel-api-surface-test-lab">SeCuReDmE cPanel API Surface Test Lab<a class="headerlink" href="#securedme-cpanel-api-surface-test-lab" title="Permanent link">&para;</a></h1>
-<p>This documentation site records public, redacted, repeatable tests for the SecuredMe cPanel operator.</p>
-<p>The lab exists to answer one practical question:</p>
-<blockquote>
-<p>What can the SecuredMe cPanel operator do safely, what evidence proves it, and what remains outside the public automation boundary?</p>
-</blockquote>
+
+  <section class="se-hero" aria-label="SecuredMe Education">
+    <picture class="se-hero__media">
+      <img class="se-hero__image se-hero__image--light" src="assets/education/banner-light-education-tier.png" alt="SecuredMe Education light banner">
+      <img class="se-hero__image se-hero__image--dark" src="assets/education/banner-dark-education-tier.png" alt="SecuredMe Education dark banner">
+    </picture>
+    <div class="se-hero__copy">
+      <p class="se-kicker">Tier 4: Education</p>
+      <h1>Learn safely. Build clearly.</h1>
+      <p>Apprendre, verifier, fabriquer. A public path for students, teachers, and builders using the SecuredMe Education suite.</p>
+      <div class="se-hero__signals" aria-label="Education actions">
+        <span>Learn / Apprendre</span>
+        <span>Connect / Connecter</span>
+        <span>Explore / Explorer</span>
+        <span>Collaborate / Collaborer</span>
+      </div>
+    </div>
+  </section>
+
+
+
+<h1 id="start-here-commencer-ici">Start Here / Commencer Ici<a class="headerlink" href="#start-here-commencer-ici" title="Permanent link">&para;</a></h1>
+<p>This public Education hub helps new users learn the SecuredMe plugin suite with visible progress, safe evidence, and reusable prompts.</p>
+<p>It is designed for two audiences at the same time:</p>
+<ul>
+<li>students and young builders who need a concrete first week of progress;</li>
+<li>professors, mentors, and operators who need readable evidence and clear boundaries.</li>
+</ul>
+<h2 id="what-you-can-do-first">What You Can Do First<a class="headerlink" href="#what-you-can-do-first" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Path</th>
+<th>Start here</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learn / Apprendre</td>
+<td><a href="plugin-capability-matrix/">Capability Matrix</a></td>
+<td>Understand the 40 plugin capability tests.</td>
+</tr>
+<tr>
+<td>Connect / Connecter</td>
+<td><a href="controller/">Education Controller</a></td>
+<td>See how controller, cPanel, GitHub, docs, and sessions route together.</td>
+</tr>
+<tr>
+<td>Explore / Explorer</td>
+<td><a href="runbooks/securedme-education-first-week/">Runbooks</a></td>
+<td>Follow the first-week onboarding path.</td>
+</tr>
+<tr>
+<td>Collaborate / Collaborer</td>
+<td><a href="runbooks/prompting-and-fabrication-guide/">Prompting Guide</a></td>
+<td>Fork one prompt into your own workflow.</td>
+</tr>
+</tbody>
+</table>
 <h2 id="current-status">Current Status<a class="headerlink" href="#current-status" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -2409,57 +2517,46 @@
 </thead>
 <tbody>
 <tr>
-<td>Documentation build</td>
+<td>Public Education docs</td>
 <td>Active</td>
-<td>MkDocs Material source is now in this repository.</td>
+<td>MkDocs Material is published on GitHub Pages.</td>
+</tr>
+<tr>
+<td>Plugin capability matrix</td>
+<td>Active</td>
+<td>40 tests, prompts, notebooks, and slash-command entries exist.</td>
+</tr>
+<tr>
+<td>cPanel operator evidence</td>
+<td>Active</td>
+<td>Public reports stay redacted and bounded by live-write gates.</td>
 </tr>
 <tr>
 <td>First live cPanel write test</td>
 <td>Passed</td>
-<td><code>test.securedme.ca</code> was created and verified.</td>
+<td><code>test.securedme.ca</code> was created and verified in earlier evidence.</td>
 </tr>
 <tr>
-<td>Public evidence policy</td>
+<td>Education visual identity</td>
 <td>Active</td>
-<td>Reports must use redacted evidence only.</td>
-</tr>
-<tr>
-<td>DNS read tests</td>
-<td>Planned</td>
-<td>Next read-only API surface to validate.</td>
-</tr>
-<tr>
-<td>SSL read tests</td>
-<td>Planned</td>
-<td>Next readiness check for <code>test.securedme.ca</code>.</td>
-</tr>
-<tr>
-<td>Email inventory tests</td>
-<td>Planned</td>
-<td>Read-only inventory before any mailbox creation.</td>
+<td>This site uses the Tier 4 Education palette and assets.</td>
 </tr>
 </tbody>
 </table>
-<h2 id="first-live-result">First Live Result<a class="headerlink" href="#first-live-result" title="Permanent link">&para;</a></h2>
-<p>The first effective cPanel API test created:</p>
-<p><code>test.securedme.ca</code></p>
-<p>The result was verified in two ways:</p>
-<ul>
-<li>cPanel browser UI opened the domain management page for <code>test.securedme.ca</code>.</li>
-<li>cPanel API <code>DomainInfo/list_domains</code> returned <code>test.securedme.ca</code> in the live subdomain list.</li>
-</ul>
-<p>Full report:</p>
-<p><a href="tests/001-cpanel-subdomain-create/">001: cPanel Subdomain Creation</a></p>
+<h2 id="core-question">Core Question<a class="headerlink" href="#core-question" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p>What can the SecuredMe Education suite do safely, what evidence proves it, and how can a new user learn to build their own workflow?</p>
+</blockquote>
 <h2 id="documentation-areas">Documentation Areas<a class="headerlink" href="#documentation-areas" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="plugin-capability-matrix/">Capability Matrix</a>: 40 public plugin capability tests and reusable prompts.</li>
 <li><a href="wiki/">Wiki</a>: navigation, documentation standards, and source map.</li>
 <li><a href="tests/">Tests</a>: executed and planned test records.</li>
+<li><a href="education-mesh/education-mvp-scope/">Education Mesh</a>: suite boundaries, mesh contracts, and readiness.</li>
 <li><a href="api-surface/">API Surface</a>: cPanel, DNS, SSL, email, deployment, and suite mapping surfaces.</li>
-<li><a href="runbooks/public-test-protocol/">Runbooks</a>: repeatable operating procedures.</li>
+<li><a href="runbooks/securedme-education-first-week/">Runbooks</a>: repeatable operating procedures.</li>
 <li><a href="security/redaction-policy/">Security</a>: redaction and public boundary rules.</li>
 <li><a href="status/current-state/">Status</a>: current repository and plugin state.</li>
-<li><a href="decisions/0001-documentation-stack/">Decisions</a>: architecture decisions for this documentation system.</li>
 </ul>
 <h2 id="operating-boundary">Operating Boundary<a class="headerlink" href="#operating-boundary" title="Permanent link">&para;</a></h2>
 <p>This is public documentation. It must not contain credentials, raw <code>.env</code> material, cPanel session URLs, private keys, mailbox passwords, private cPanel exports, or deployment archives.</p>
