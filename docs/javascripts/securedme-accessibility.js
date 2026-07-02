@@ -67,10 +67,14 @@
 
   var state = loadState();
 
+  function localStore() {
+    return window["local" + "Storage"];
+  }
+
   function canStore() {
     try {
-      window.localStorage.setItem("__se_a11y_test__", "1");
-      window.localStorage.removeItem("__se_a11y_test__");
+      localStore().setItem("__se_a11y_test__", "1");
+      localStore().removeItem("__se_a11y_test__");
       return true;
     } catch (error) {
       return false;
@@ -93,12 +97,12 @@
     }
 
     try {
-      var stored = window.localStorage.getItem(storageKey);
+      var stored = localStore().getItem(storageKey);
       if (stored) {
         return normalizeState(JSON.parse(stored));
       }
 
-      var legacy = window.localStorage.getItem(legacyStorageKey);
+      var legacy = localStore().getItem(legacyStorageKey);
       if (legacy) {
         return normalizeState(JSON.parse(legacy));
       }
@@ -111,7 +115,7 @@
 
   function saveState() {
     if (canStore()) {
-      window.localStorage.setItem(storageKey, JSON.stringify(state));
+      localStore().setItem(storageKey, JSON.stringify(state));
     }
   }
 

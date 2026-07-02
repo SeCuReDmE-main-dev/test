@@ -1,9 +1,6 @@
-site_name: SecuredMe Education
-site_description: Public Education runbooks, plugin capability tests, and redacted evidence for the SecuredMe suite.
+site_name: SecuredMe Education Preview
+site_description: A simplified transition page for the SecuredMe Education public hub.
 site_url: https://securedme-main-dev.github.io/test/
-repo_url: https://github.com/SeCuReDmE-main-dev/test
-repo_name: SeCuReDmE-main-dev/test
-edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -70,63 +67,3 @@ plugins:
 
 nav:
   - Home: index.md
-  - Accessibility:
-      - Edge User Console: accessibility/edge-user-console.md
-      - Neurodivergent Comfort: accessibility/neurodivergent-comfort.md
-  - Wiki:
-      - Wiki Home: wiki/index.md
-      - Navigation Map: wiki/navigation-map.md
-      - Documentation Standard: wiki/documentation-standard.md
-      - GitHub Wiki Hosting: wiki/github-wiki-hosting.md
-  - Capability Matrix:
-      - Overview: plugin-capability-matrix/index.md
-      - Prompt Catalog: plugin-capability-matrix/prompt-catalog.md
-      - "Tests 001-005": plugin-capability-matrix/tests-001-005.md
-      - "Tests 006-010": plugin-capability-matrix/tests-006-010.md
-      - "Tests 011-015": plugin-capability-matrix/tests-011-015.md
-      - "Tests 016-020": plugin-capability-matrix/tests-016-020.md
-      - "Tests 021-025": plugin-capability-matrix/tests-021-025.md
-      - "Tests 026-030": plugin-capability-matrix/tests-026-030.md
-      - "Tests 031-035": plugin-capability-matrix/tests-031-035.md
-      - "Tests 036-040": plugin-capability-matrix/tests-036-040.md
-  - Personal Test Docs:
-      - SecuredMe Personal Test Docs: personal/index.md
-      - cPanel Operator Lab Notes: personal/cpanel-operator-lab.md
-  - Tests:
-      - Test Index: tests/index.md
-      - "001: cPanel Subdomain Creation": tests/001-cpanel-subdomain-create.md
-      - "002: Education Scope Re-Bound": tests/002-education-scope-rebound.md
-      - "003: CodeProject Mesh Dry Run": tests/003-codeproject-mesh-dry-run.md
-  - Education Mesh:
-      - Education MVP Scope: education-mesh/education-mvp-scope.md
-      - Excluded Internal Models: education-mesh/excluded-internal-models.md
-      - CodeProject.AI Mesh Contract: education-mesh/codeproject-ai-mesh-contract.md
-      - 11 Repository Readiness: education-mesh/11-repository-readiness.md
-      - MCP Mesh Tools: education-mesh/mcp-mesh-tools.md
-  - Education Controller:
-      - Controller Overview: controller/index.md
-      - Session Gate: controller/session-gate.md
-      - GitHub cPanel Webhooks: controller/github-cpanel-webhooks.md
-      - Plugin Registry: controller/plugin-registry.md
-  - API Surface:
-      - Overview: api-surface/index.md
-      - cPanel UAPI: api-surface/cpanel-uapi.md
-      - Domains And DNS: api-surface/domains-dns.md
-      - Email And SSL: api-surface/email-ssl.md
-      - Deployment Planning: api-surface/deployment-planning.md
-  - Runbooks:
-      - SecuredMe Education First Week: runbooks/securedme-education-first-week.md
-      - Prompting And Fabrication Guide: runbooks/prompting-and-fabrication-guide.md
-      - cPanel Education Live Deploy Plan: runbooks/cpanel-education-live-deploy-plan.md
-      - Public Test Protocol: runbooks/public-test-protocol.md
-      - Live Mutation Gate: runbooks/live-mutation-gate.md
-      - Result Capture Template: runbooks/result-capture-template.md
-  - Security:
-      - Redaction Policy: security/redaction-policy.md
-      - Public Boundary: security/public-boundary.md
-  - Status:
-      - Current State: status/current-state.md
-      - Education Mesh Re-Bound: status/education-mesh-rebound.md
-      - Roadmap: status/roadmap.md
-  - Decisions:
-      - "0001: Documentation Stack": decisions/0001-documentation-stack.md
