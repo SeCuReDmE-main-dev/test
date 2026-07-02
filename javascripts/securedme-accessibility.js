@@ -705,6 +705,11 @@
 
   if (window.document$ && typeof window.document$.subscribe === "function") {
     window.document$.subscribe(start);
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", start, { once: true });
+    } else {
+      window.setTimeout(start, 0);
+    }
   } else if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", start);
   } else {
