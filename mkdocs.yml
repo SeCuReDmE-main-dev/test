@@ -63,6 +63,14 @@ nav:
   - Tests:
       - Test Index: tests/index.md
       - "001: cPanel Subdomain Creation": tests/001-cpanel-subdomain-create.md
+      - "002: Education Scope Re-Bound": tests/002-education-scope-rebound.md
+      - "003: CodeProject Mesh Dry Run": tests/003-codeproject-mesh-dry-run.md
+  - Education Mesh:
+      - Education MVP Scope: education-mesh/education-mvp-scope.md
+      - Excluded Internal Models: education-mesh/excluded-internal-models.md
+      - CodeProject.AI Mesh Contract: education-mesh/codeproject-ai-mesh-contract.md
+      - 11 Repository Readiness: education-mesh/11-repository-readiness.md
+      - MCP Mesh Tools: education-mesh/mcp-mesh-tools.md
   - API Surface:
       - Overview: api-surface/index.md
       - cPanel UAPI: api-surface/cpanel-uapi.md

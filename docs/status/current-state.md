@@ -18,6 +18,8 @@
 | Verify domain through API | Passed | `DomainInfo/list_domains` |
 | Confirm browser UI state | Passed | cPanel manage domain page |
 | Normalize cPanel UI URL for API calls | Passed | plugin patch and unit test |
+| Education MVP scope re-bound | Passed | 11 repo registry, internal models excluded |
+| CodeProject mesh dry-run contract | Passed | MCP tools added, dry-run status and mesh probes |
 
 ## Not Yet Proven
 
@@ -28,4 +30,5 @@
 - mailbox creation
 - DNS mutation
 - domain deletion safety
-
+- live CodeProject.AI module inference from every app
+- app-by-app mesh adapters outside FNP-QNN-MVP
