@@ -86,6 +86,7 @@ nav:
       - Public Boundary: security/public-boundary.md
   - Status:
       - Current State: status/current-state.md
+      - Education Mesh Re-Bound: status/education-mesh-rebound.md
       - Roadmap: status/roadmap.md
   - Decisions:
       - "0001: Documentation Stack": decisions/0001-documentation-stack.md
