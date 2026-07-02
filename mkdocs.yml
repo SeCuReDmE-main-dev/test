@@ -1,5 +1,5 @@
 site_name: SecuredMe Education Preview
-site_description: A simplified transition page for the SecuredMe Education public hub.
+site_description: Public-safe preview lab for the SecuredMe Education hub.
 site_url: https://securedme-main-dev.github.io/test/
 
 theme:
@@ -39,7 +39,7 @@ extra_css:
   - stylesheets/securedme-education.css
   - stylesheets/securedme-theme-toggle.css
   - stylesheets/securedme-accessibility.css
-  - stylesheets/securedme-onboarding.css
+  - stylesheets/securedme-central.css
 
 extra_javascript:
   - javascripts/securedme-theme-toggle.js
@@ -68,7 +68,22 @@ plugins:
 
 nav:
   - Home: index.md
-  - Onboarding: onboarding/index.md
+  - Tools:
+      - Overview: tools/index.md
+      - AlgoQuest Discovery Labs: algoquest.md
+      - Algorithm Builder: algorithm-builder.md
+      - CeLeBrUm Learning Lab: celebrum-learning-lab.md
+      - FFeD QLC: ffed-qlc.md
+      - FNP-QNN MVP: fnp-qnn-mvp.md
+      - Hippo Memory Learning: hippo-memory-learning.md
+      - Market Guardian: market-guardian.md
+      - QuaNThoR: quanthor.md
+      - SCL License: scl-license.md
+      - SecuredMe Scholarium: scholarium.md
+      - Synthia: synthia.md
+      - Tesla Recovery Workbench: tesla-recovery-workbench.md
+      - V.O.T Guardian: vot-guardian.md
+      - Visual Algorithm Designer: visual-algorithm-designer.md
   - 40 Starter Prompts: starter-prompts/index.md
   - Notebook / Colab: notebooks/index.md
   - Accessibility:

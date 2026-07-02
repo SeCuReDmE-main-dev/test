@@ -47,31 +47,6 @@ Each starter prompt has its own notebook. Use this when you want a worksheet exp
 | 39 | Make it builder-ready | [Page](../starter-prompts/prompts/prompt-39-make-it-builder-ready.md) | [Notebook](prompt-39-make-it-builder-ready.ipynb) | <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-39-make-it-builder-ready.ipynb" aria-label="Open Prompt 39 in Google Colab"><span>Open in Colab</span></a> |
 | 40 | Publish a learner page | [Page](../starter-prompts/prompts/prompt-40-publish-a-learner-page.md) | [Notebook](prompt-40-publish-a-learner-page.ipynb) | <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-40-publish-a-learner-page.ipynb" aria-label="Open Prompt 40 in Google Colab"><span>Open in Colab</span></a> |
 
-## How To Use One Notebook
-
-<div class="se-home-actions">
-  <section class="se-public-card">
-    <p class="se-kicker">Choose</p>
-    <h2>Select One Prompt</h2>
-    <p>Pick the notebook that matches the prompt you want to practice.</p>
-  </section>
-  <section class="se-public-card">
-    <p class="se-kicker">Adapt</p>
-    <h2>Add Your Context</h2>
-    <p>Add topic, audience, and result wanted so the prompt becomes yours.</p>
-  </section>
-  <section class="se-public-card">
-    <p class="se-kicker">Run</p>
-    <h2>Create A First Artifact</h2>
-    <p>Use the prepared prompt with your preferred assistant or classroom workflow.</p>
-  </section>
-  <section class="se-public-card">
-    <p class="se-kicker">Reflect</p>
-    <h2>Keep The Useful Part</h2>
-    <p>Capture the result, what improved, and the next small step.</p>
-  </section>
-</div>
-
 ## Public Boundary
 
 These notebooks are learning worksheets. They do not need account keys, special setup, or private project details.

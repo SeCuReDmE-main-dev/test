@@ -1,87 +1,85 @@
 # SecuredMe Education
 
-Start with one prompt, open the matching notebook, and keep one useful result.
+SecuredMe Education is a public learning suite for students, teachers, and creators who want practical tools, visible progress, and a calmer way to begin.
 
 <div class="se-link-strip">
-  <a class="se-action-link" href="onboarding/index.md">Onboarding</a>
-  <a class="se-action-link" href="starter-prompts/index.md">40 Starter Prompts</a>
-  <a class="se-action-link" href="notebooks/index.md">Notebook / Colab</a>
-  <a class="se-action-link" href="accessibility/edge-user-console.md">Access</a>
+  <a class="se-action-link" href="algoquest/">Start With AlgoQuest</a>
+  <a class="se-action-link" href="tools/">Tool Index</a>
+  <a class="se-action-link" href="starter-prompts/">40 Starter Prompts</a>
+  <a class="se-action-link" href="notebooks/">Notebook / Colab</a>
+  <a class="se-action-link" href="accessibility/edge-user-console/">Access Console</a>
 </div>
+
+## What This Suite Is
 
 <div class="se-home-actions se-home-actions--compact">
   <section class="se-public-card se-public-card--compact">
-    <p class="se-kicker">Choose</p>
-    <h2>Pick A Track</h2>
-    <p>Student, teacher, creator, or comfort.</p>
+    <p class="se-kicker">Learn</p>
+    <h2>Start Small</h2>
+    <p>Pick one tool and one activity.</p>
   </section>
   <section class="se-public-card se-public-card--compact">
-    <p class="se-kicker">Open</p>
+    <p class="se-kicker">Connect</p>
     <h2>Use A Prompt</h2>
-    <p>Page, notebook, or Colab.</p>
+    <p>Turn a question into a result.</p>
   </section>
   <section class="se-public-card se-public-card--compact">
-    <p class="se-kicker">Make</p>
-    <h2>Keep A Result</h2>
-    <p>Checklist, worksheet, table, or build step.</p>
+    <p class="se-kicker">Explore</p>
+    <h2>Open A Path</h2>
+    <p>Move from idea to tool to artifact.</p>
   </section>
   <section class="se-public-card se-public-card--compact">
-    <p class="se-kicker">Continue</p>
-    <h2>Next Small Step</h2>
-    <p>Progress in 15 minutes.</p>
+    <p class="se-kicker">Access</p>
+    <h2>Adjust Comfort</h2>
+    <p>Use calmer reading and focus settings.</p>
   </section>
 </div>
 
-## Quick Tracks
+## First Tool
 
-| Track | Best first prompts | Direct link |
-| --- | --- | --- |
-| Student start | 01-10 | [Open onboarding](onboarding/index.md#pick-your-track) |
-| Teacher activity | 07, 09, 24, 25, 26, 32, 38 | [Open prompt matrix](starter-prompts/index.md) |
-| Creator build | 11, 16, 18, 31, 35, 36, 39, 40 | [Open notebooks](notebooks/index.md) |
-| Comfort path | 14, 20, 21, 28, 34 | [Open Access](accessibility/edge-user-console.md) |
+<section class="se-feature-tool">
+  <picture class="se-feature-tool__media">
+    <img class="se-feature-tool__image se-tool-card__image--light" src="assets/brands/algoquest/banner-light.png" alt="AlgoQuest Discovery Labs light banner">
+    <img class="se-feature-tool__image se-tool-card__image--dark" src="assets/brands/algoquest/banner-dark.png" alt="AlgoQuest Discovery Labs dark banner">
+  </picture>
+  <div class="se-feature-tool__body">
+    <p class="se-kicker">Tool 01</p>
+    <h2>AlgoQuest Discovery Labs</h2>
+    <p>Play with algorithms through guided challenges, everyday examples, and visual checkpoints.</p>
+    <div class="se-action-row">
+      <a class="se-action-link" href="algoquest/">Open Tool Page</a>
+      <a class="se-action-link" href="starter-prompts/">Use A Starter Prompt</a>
+      <a class="se-action-link" href="notebooks/">Open Notebook</a>
+    </div>
+  </div>
+</section>
 
-## Prompt Index
+## Start In 15 Minutes
 
-| # | Prompt | Page | Notebook | Colab |
-| ---: | --- | --- | --- | --- |
-| 01 | Understand the suite | [Page](starter-prompts/prompts/prompt-01-understand-the-suite.md) | [Notebook](notebooks/prompt-01-understand-the-suite.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-01-understand-the-suite.ipynb" aria-label="Open Prompt 01 in Google Colab"><span>Colab</span></a> |
-| 02 | Choose my first tool | [Page](starter-prompts/prompts/prompt-02-choose-my-first-tool.md) | [Notebook](notebooks/prompt-02-choose-my-first-tool.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-02-choose-my-first-tool.ipynb" aria-label="Open Prompt 02 in Google Colab"><span>Colab</span></a> |
-| 03 | Make a 15 minute start | [Page](starter-prompts/prompts/prompt-03-make-a-15-minute-start.md) | [Notebook](notebooks/prompt-03-make-a-15-minute-start.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-03-make-a-15-minute-start.ipynb" aria-label="Open Prompt 03 in Google Colab"><span>Colab</span></a> |
-| 04 | Turn an idea into steps | [Page](starter-prompts/prompts/prompt-04-turn-an-idea-into-steps.md) | [Notebook](notebooks/prompt-04-turn-an-idea-into-steps.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-04-turn-an-idea-into-steps.ipynb" aria-label="Open Prompt 04 in Google Colab"><span>Colab</span></a> |
-| 05 | Make the goal smaller | [Page](starter-prompts/prompts/prompt-05-make-the-goal-smaller.md) | [Notebook](notebooks/prompt-05-make-the-goal-smaller.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-05-make-the-goal-smaller.ipynb" aria-label="Open Prompt 05 in Google Colab"><span>Colab</span></a> |
-| 06 | Explain the outcome | [Page](starter-prompts/prompts/prompt-06-explain-the-outcome.md) | [Notebook](notebooks/prompt-06-explain-the-outcome.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-06-explain-the-outcome.ipynb" aria-label="Open Prompt 06 in Google Colab"><span>Colab</span></a> |
-| 07 | Prepare a classroom version | [Page](starter-prompts/prompts/prompt-07-prepare-a-classroom-version.md) | [Notebook](notebooks/prompt-07-prepare-a-classroom-version.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-07-prepare-a-classroom-version.ipynb" aria-label="Open Prompt 07 in Google Colab"><span>Colab</span></a> |
-| 08 | Prepare a solo version | [Page](starter-prompts/prompts/prompt-08-prepare-a-solo-version.md) | [Notebook](notebooks/prompt-08-prepare-a-solo-version.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-08-prepare-a-solo-version.ipynb" aria-label="Open Prompt 08 in Google Colab"><span>Colab</span></a> |
-| 09 | Create a teacher check | [Page](starter-prompts/prompts/prompt-09-create-a-teacher-check.md) | [Notebook](notebooks/prompt-09-create-a-teacher-check.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-09-create-a-teacher-check.ipynb" aria-label="Open Prompt 09 in Google Colab"><span>Colab</span></a> |
-| 10 | Create a student reflection | [Page](starter-prompts/prompts/prompt-10-create-a-student-reflection.md) | [Notebook](notebooks/prompt-10-create-a-student-reflection.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-10-create-a-student-reflection.ipynb" aria-label="Open Prompt 10 in Google Colab"><span>Colab</span></a> |
-| 11 | Build a visual plan | [Page](starter-prompts/prompts/prompt-11-build-a-visual-plan.md) | [Notebook](notebooks/prompt-11-build-a-visual-plan.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-11-build-a-visual-plan.ipynb" aria-label="Open Prompt 11 in Google Colab"><span>Colab</span></a> |
-| 12 | Find the first risk | [Page](starter-prompts/prompts/prompt-12-find-the-first-risk.md) | [Notebook](notebooks/prompt-12-find-the-first-risk.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-12-find-the-first-risk.ipynb" aria-label="Open Prompt 12 in Google Colab"><span>Colab</span></a> |
-| 13 | Compare two options | [Page](starter-prompts/prompts/prompt-13-compare-two-options.md) | [Notebook](notebooks/prompt-13-compare-two-options.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-13-compare-two-options.ipynb" aria-label="Open Prompt 13 in Google Colab"><span>Colab</span></a> |
-| 14 | Make it calmer | [Page](starter-prompts/prompts/prompt-14-make-it-calmer.md) | [Notebook](notebooks/prompt-14-make-it-calmer.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-14-make-it-calmer.ipynb" aria-label="Open Prompt 14 in Google Colab"><span>Colab</span></a> |
-| 15 | Make it more challenging | [Page](starter-prompts/prompts/prompt-15-make-it-more-challenging.md) | [Notebook](notebooks/prompt-15-make-it-more-challenging.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-15-make-it-more-challenging.ipynb" aria-label="Open Prompt 15 in Google Colab"><span>Colab</span></a> |
-| 16 | Make a progress checklist | [Page](starter-prompts/prompts/prompt-16-make-a-progress-checklist.md) | [Notebook](notebooks/prompt-16-make-a-progress-checklist.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-16-make-a-progress-checklist.ipynb" aria-label="Open Prompt 16 in Google Colab"><span>Colab</span></a> |
-| 17 | Create a beginner prompt | [Page](starter-prompts/prompts/prompt-17-create-a-beginner-prompt.md) | [Notebook](notebooks/prompt-17-create-a-beginner-prompt.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-17-create-a-beginner-prompt.ipynb" aria-label="Open Prompt 17 in Google Colab"><span>Colab</span></a> |
-| 18 | Improve my prompt | [Page](starter-prompts/prompts/prompt-18-improve-my-prompt.md) | [Notebook](notebooks/prompt-18-improve-my-prompt.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-18-improve-my-prompt.ipynb" aria-label="Open Prompt 18 in Google Colab"><span>Colab</span></a> |
-| 19 | Remove confusion | [Page](starter-prompts/prompts/prompt-19-remove-confusion.md) | [Notebook](notebooks/prompt-19-remove-confusion.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-19-remove-confusion.ipynb" aria-label="Open Prompt 19 in Google Colab"><span>Colab</span></a> |
-| 20 | Make a glossary | [Page](starter-prompts/prompts/prompt-20-make-a-glossary.md) | [Notebook](notebooks/prompt-20-make-a-glossary.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-20-make-a-glossary.ipynb" aria-label="Open Prompt 20 in Google Colab"><span>Colab</span></a> |
-| 21 | Plan a study sprint | [Page](starter-prompts/prompts/prompt-21-plan-a-study-sprint.md) | [Notebook](notebooks/prompt-21-plan-a-study-sprint.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-21-plan-a-study-sprint.ipynb" aria-label="Open Prompt 21 in Google Colab"><span>Colab</span></a> |
-| 22 | Plan a group activity | [Page](starter-prompts/prompts/prompt-22-plan-a-group-activity.md) | [Notebook](notebooks/prompt-22-plan-a-group-activity.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-22-plan-a-group-activity.ipynb" aria-label="Open Prompt 22 in Google Colab"><span>Colab</span></a> |
-| 23 | Plan a demo | [Page](starter-prompts/prompts/prompt-23-plan-a-demo.md) | [Notebook](notebooks/prompt-23-plan-a-demo.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-23-plan-a-demo.ipynb" aria-label="Open Prompt 23 in Google Colab"><span>Colab</span></a> |
-| 24 | Plan a worksheet | [Page](starter-prompts/prompts/prompt-24-plan-a-worksheet.md) | [Notebook](notebooks/prompt-24-plan-a-worksheet.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-24-plan-a-worksheet.ipynb" aria-label="Open Prompt 24 in Google Colab"><span>Colab</span></a> |
-| 25 | Plan feedback | [Page](starter-prompts/prompts/prompt-25-plan-feedback.md) | [Notebook](notebooks/prompt-25-plan-feedback.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-25-plan-feedback.ipynb" aria-label="Open Prompt 25 in Google Colab"><span>Colab</span></a> |
-| 26 | Check understanding | [Page](starter-prompts/prompts/prompt-26-check-understanding.md) | [Notebook](notebooks/prompt-26-check-understanding.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-26-check-understanding.ipynb" aria-label="Open Prompt 26 in Google Colab"><span>Colab</span></a> |
-| 27 | Connect to real life | [Page](starter-prompts/prompts/prompt-27-connect-to-real-life.md) | [Notebook](notebooks/prompt-27-connect-to-real-life.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-27-connect-to-real-life.ipynb" aria-label="Open Prompt 27 in Google Colab"><span>Colab</span></a> |
-| 28 | Make it accessible | [Page](starter-prompts/prompts/prompt-28-make-it-accessible.md) | [Notebook](notebooks/prompt-28-make-it-accessible.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-28-make-it-accessible.ipynb" aria-label="Open Prompt 28 in Google Colab"><span>Colab</span></a> |
-| 29 | Make it bilingual | [Page](starter-prompts/prompts/prompt-29-make-it-bilingual.md) | [Notebook](notebooks/prompt-29-make-it-bilingual.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-29-make-it-bilingual.ipynb" aria-label="Open Prompt 29 in Google Colab"><span>Colab</span></a> |
-| 30 | Make a portfolio note | [Page](starter-prompts/prompts/prompt-30-make-a-portfolio-note.md) | [Notebook](notebooks/prompt-30-make-a-portfolio-note.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-30-make-a-portfolio-note.ipynb" aria-label="Open Prompt 30 in Google Colab"><span>Colab</span></a> |
-| 31 | Explain the next step | [Page](starter-prompts/prompts/prompt-31-explain-the-next-step.md) | [Notebook](notebooks/prompt-31-explain-the-next-step.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-31-explain-the-next-step.ipynb" aria-label="Open Prompt 31 in Google Colab"><span>Colab</span></a> |
-| 32 | Create a mini rubric | [Page](starter-prompts/prompts/prompt-32-create-a-mini-rubric.md) | [Notebook](notebooks/prompt-32-create-a-mini-rubric.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-32-create-a-mini-rubric.ipynb" aria-label="Open Prompt 32 in Google Colab"><span>Colab</span></a> |
-| 33 | Create a story example | [Page](starter-prompts/prompts/prompt-33-create-a-story-example.md) | [Notebook](notebooks/prompt-33-create-a-story-example.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-33-create-a-story-example.ipynb" aria-label="Open Prompt 33 in Google Colab"><span>Colab</span></a> |
-| 34 | Create a debugging path | [Page](starter-prompts/prompts/prompt-34-create-a-debugging-path.md) | [Notebook](notebooks/prompt-34-create-a-debugging-path.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-34-create-a-debugging-path.ipynb" aria-label="Open Prompt 34 in Google Colab"><span>Colab</span></a> |
-| 35 | Create a comparison table | [Page](starter-prompts/prompts/prompt-35-create-a-comparison-table.md) | [Notebook](notebooks/prompt-35-create-a-comparison-table.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-35-create-a-comparison-table.ipynb" aria-label="Open Prompt 35 in Google Colab"><span>Colab</span></a> |
-| 36 | Create an experiment | [Page](starter-prompts/prompts/prompt-36-create-an-experiment.md) | [Notebook](notebooks/prompt-36-create-an-experiment.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-36-create-an-experiment.ipynb" aria-label="Open Prompt 36 in Google Colab"><span>Colab</span></a> |
-| 37 | Summarize my progress | [Page](starter-prompts/prompts/prompt-37-summarize-my-progress.md) | [Notebook](notebooks/prompt-37-summarize-my-progress.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-37-summarize-my-progress.ipynb" aria-label="Open Prompt 37 in Google Colab"><span>Colab</span></a> |
-| 38 | Make it teacher-ready | [Page](starter-prompts/prompts/prompt-38-make-it-teacher-ready.md) | [Notebook](notebooks/prompt-38-make-it-teacher-ready.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-38-make-it-teacher-ready.ipynb" aria-label="Open Prompt 38 in Google Colab"><span>Colab</span></a> |
-| 39 | Make it builder-ready | [Page](starter-prompts/prompts/prompt-39-make-it-builder-ready.md) | [Notebook](notebooks/prompt-39-make-it-builder-ready.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-39-make-it-builder-ready.ipynb" aria-label="Open Prompt 39 in Google Colab"><span>Colab</span></a> |
-| 40 | Publish a learner page | [Page](starter-prompts/prompts/prompt-40-publish-a-learner-page.md) | [Notebook](notebooks/prompt-40-publish-a-learner-page.ipynb) | <a class="se-colab-badge se-colab-badge--mini" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-40-publish-a-learner-page.ipynb" aria-label="Open Prompt 40 in Google Colab"><span>Colab</span></a> |
+| Step | Action | Link |
+| ---: | --- | --- |
+| 1 | Pick one everyday task. | [Open AlgoQuest](algoquest.md) |
+| 2 | Turn the task into five steps. | [Prompt Matrix](starter-prompts/index.md) |
+| 3 | Draw a simple flow: input, action, result. | [Tool Index](tools/index.md) |
+| 4 | Keep the clearest result and choose one next move. | [Access Console](accessibility/edge-user-console.md) |
+
+## Suite Index
+
+The full suite stays available, but the recommended first path is AlgoQuest.
+
+| Tool | Best First Use |
+| --- | --- |
+| [AlgoQuest Discovery Labs](algoquest.md) | Play with algorithms through guided challenges and visual checkpoints. |
+| [Algorithm Builder](algorithm-builder.md) | Turn a learning idea into a clear step-by-step plan. |
+| [CeLeBrUm Learning Lab](celebrum-learning-lab.md) | Plan goals, organize reflection, and turn study momentum into next steps. |
+| [FFeD QLC](ffed-qlc.md) | Explore quality, logic, and learning checks through structured activities. |
+| [FNP-QNN MVP](fnp-qnn-mvp.md) | Explore quantum-inspired learning models with visual, classroom-friendly prompts. |
+| [Hippo Memory Learning](hippo-memory-learning.md) | Study how memory-inspired learning can support research and review. |
+| [Market Guardian](market-guardian.md) | Understand retail safety, stock awareness, and practical decision checks. |
+| [QuaNThoR](quanthor.md) | Explore quantum-inspired reasoning through accessible learning experiments. |
+| [SCL License](scl-license.md) | Read the shared education license language for the suite. |
+| [SecuredMe Scholarium](scholarium.md) | Support classroom learning paths, teacher review, and student progress. |
+| [Synthia](synthia.md) | Guide learning conversations, reflection, and clear next actions. |
+| [Tesla Recovery Workbench](tesla-recovery-workbench.md) | Study invention, recovery, and experiment planning through guided activities. |
+| [V.O.T Guardian](vot-guardian.md) | Practice visual observation and trust thinking with learner-friendly examples. |
+| [Visual Algorithm Designer](visual-algorithm-designer.md) | Sketch algorithm steps visually before turning them into implementation tasks. |

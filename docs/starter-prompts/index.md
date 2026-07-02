@@ -4,7 +4,6 @@ These prompts help beginners use SecuredMe Education without needing to know how
 
 <div class="se-prompt-grid">
 
-
 <section class="se-prompt-card">
   <p class="se-kicker">Prompt 01</p>
   <h2>Understand the suite</h2>
@@ -13,7 +12,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-01-understand-the-suite.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-01-understand-the-suite/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-01-understand-the-suite.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-01-understand-the-suite.ipynb" aria-label="Open Prompt 01 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -28,7 +27,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-02-choose-my-first-tool.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-02-choose-my-first-tool/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-02-choose-my-first-tool.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-02-choose-my-first-tool.ipynb" aria-label="Open Prompt 02 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -43,7 +42,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-03-make-a-15-minute-start.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-03-make-a-15-minute-start/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-03-make-a-15-minute-start.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-03-make-a-15-minute-start.ipynb" aria-label="Open Prompt 03 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -58,7 +57,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-04-turn-an-idea-into-steps.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-04-turn-an-idea-into-steps/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-04-turn-an-idea-into-steps.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-04-turn-an-idea-into-steps.ipynb" aria-label="Open Prompt 04 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -73,7 +72,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-05-make-the-goal-smaller.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-05-make-the-goal-smaller/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-05-make-the-goal-smaller.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-05-make-the-goal-smaller.ipynb" aria-label="Open Prompt 05 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -88,7 +87,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-06-explain-the-outcome.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-06-explain-the-outcome/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-06-explain-the-outcome.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-06-explain-the-outcome.ipynb" aria-label="Open Prompt 06 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -103,7 +102,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-07-prepare-a-classroom-version.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-07-prepare-a-classroom-version/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-07-prepare-a-classroom-version.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-07-prepare-a-classroom-version.ipynb" aria-label="Open Prompt 07 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -118,7 +117,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-08-prepare-a-solo-version.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-08-prepare-a-solo-version/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-08-prepare-a-solo-version.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-08-prepare-a-solo-version.ipynb" aria-label="Open Prompt 08 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -133,7 +132,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-09-create-a-teacher-check.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-09-create-a-teacher-check/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-09-create-a-teacher-check.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-09-create-a-teacher-check.ipynb" aria-label="Open Prompt 09 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -148,7 +147,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-10-create-a-student-reflection.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-10-create-a-student-reflection/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-10-create-a-student-reflection.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-10-create-a-student-reflection.ipynb" aria-label="Open Prompt 10 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -163,7 +162,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-11-build-a-visual-plan.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-11-build-a-visual-plan/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-11-build-a-visual-plan.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-11-build-a-visual-plan.ipynb" aria-label="Open Prompt 11 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -178,7 +177,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-12-find-the-first-risk.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-12-find-the-first-risk/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-12-find-the-first-risk.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-12-find-the-first-risk.ipynb" aria-label="Open Prompt 12 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -193,7 +192,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-13-compare-two-options.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-13-compare-two-options/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-13-compare-two-options.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-13-compare-two-options.ipynb" aria-label="Open Prompt 13 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -208,7 +207,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-14-make-it-calmer.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-14-make-it-calmer/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-14-make-it-calmer.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-14-make-it-calmer.ipynb" aria-label="Open Prompt 14 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -223,7 +222,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-15-make-it-more-challenging.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-15-make-it-more-challenging/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-15-make-it-more-challenging.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-15-make-it-more-challenging.ipynb" aria-label="Open Prompt 15 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -238,7 +237,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-16-make-a-progress-checklist.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-16-make-a-progress-checklist/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-16-make-a-progress-checklist.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-16-make-a-progress-checklist.ipynb" aria-label="Open Prompt 16 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -253,7 +252,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-17-create-a-beginner-prompt.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-17-create-a-beginner-prompt/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-17-create-a-beginner-prompt.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-17-create-a-beginner-prompt.ipynb" aria-label="Open Prompt 17 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -268,7 +267,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-18-improve-my-prompt.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-18-improve-my-prompt/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-18-improve-my-prompt.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-18-improve-my-prompt.ipynb" aria-label="Open Prompt 18 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -283,7 +282,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-19-remove-confusion.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-19-remove-confusion/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-19-remove-confusion.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-19-remove-confusion.ipynb" aria-label="Open Prompt 19 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -298,7 +297,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-20-make-a-glossary.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-20-make-a-glossary/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-20-make-a-glossary.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-20-make-a-glossary.ipynb" aria-label="Open Prompt 20 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -313,7 +312,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-21-plan-a-study-sprint.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-21-plan-a-study-sprint/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-21-plan-a-study-sprint.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-21-plan-a-study-sprint.ipynb" aria-label="Open Prompt 21 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -328,7 +327,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-22-plan-a-group-activity.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-22-plan-a-group-activity/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-22-plan-a-group-activity.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-22-plan-a-group-activity.ipynb" aria-label="Open Prompt 22 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -343,7 +342,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-23-plan-a-demo.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-23-plan-a-demo/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-23-plan-a-demo.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-23-plan-a-demo.ipynb" aria-label="Open Prompt 23 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -358,7 +357,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-24-plan-a-worksheet.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-24-plan-a-worksheet/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-24-plan-a-worksheet.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-24-plan-a-worksheet.ipynb" aria-label="Open Prompt 24 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -373,7 +372,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-25-plan-feedback.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-25-plan-feedback/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-25-plan-feedback.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-25-plan-feedback.ipynb" aria-label="Open Prompt 25 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -388,7 +387,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-26-check-understanding.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-26-check-understanding/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-26-check-understanding.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-26-check-understanding.ipynb" aria-label="Open Prompt 26 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -403,7 +402,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-27-connect-to-real-life.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-27-connect-to-real-life/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-27-connect-to-real-life.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-27-connect-to-real-life.ipynb" aria-label="Open Prompt 27 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -418,7 +417,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-28-make-it-accessible.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-28-make-it-accessible/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-28-make-it-accessible.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-28-make-it-accessible.ipynb" aria-label="Open Prompt 28 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -433,7 +432,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-29-make-it-bilingual.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-29-make-it-bilingual/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-29-make-it-bilingual.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-29-make-it-bilingual.ipynb" aria-label="Open Prompt 29 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -448,7 +447,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-30-make-a-portfolio-note.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-30-make-a-portfolio-note/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-30-make-a-portfolio-note.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-30-make-a-portfolio-note.ipynb" aria-label="Open Prompt 30 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -463,7 +462,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-31-explain-the-next-step.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-31-explain-the-next-step/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-31-explain-the-next-step.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-31-explain-the-next-step.ipynb" aria-label="Open Prompt 31 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -478,7 +477,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-32-create-a-mini-rubric.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-32-create-a-mini-rubric/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-32-create-a-mini-rubric.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-32-create-a-mini-rubric.ipynb" aria-label="Open Prompt 32 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -493,7 +492,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-33-create-a-story-example.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-33-create-a-story-example/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-33-create-a-story-example.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-33-create-a-story-example.ipynb" aria-label="Open Prompt 33 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -508,7 +507,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-34-create-a-debugging-path.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-34-create-a-debugging-path/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-34-create-a-debugging-path.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-34-create-a-debugging-path.ipynb" aria-label="Open Prompt 34 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -523,7 +522,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-35-create-a-comparison-table.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-35-create-a-comparison-table/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-35-create-a-comparison-table.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-35-create-a-comparison-table.ipynb" aria-label="Open Prompt 35 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -538,7 +537,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-36-create-an-experiment.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-36-create-an-experiment/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-36-create-an-experiment.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-36-create-an-experiment.ipynb" aria-label="Open Prompt 36 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -553,7 +552,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-37-summarize-my-progress.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-37-summarize-my-progress/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-37-summarize-my-progress.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-37-summarize-my-progress.ipynb" aria-label="Open Prompt 37 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -568,7 +567,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-38-make-it-teacher-ready.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-38-make-it-teacher-ready/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-38-make-it-teacher-ready.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-38-make-it-teacher-ready.ipynb" aria-label="Open Prompt 38 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -583,7 +582,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-39-make-it-builder-ready.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-39-make-it-builder-ready/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-39-make-it-builder-ready.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-39-make-it-builder-ready.ipynb" aria-label="Open Prompt 39 in Google Colab"><span>Open in Colab</span></a>
   </div>
@@ -598,7 +597,7 @@ These prompts help beginners use SecuredMe Education without needing to know how
   <p><strong>Expected result:</strong> A clear beginner-friendly output that can be used right away.</p>
   <p><strong>Next action:</strong> Save the best part and try one small improvement.</p>
   <div class="se-action-row">
-    <a class="se-action-link" href="prompts/prompt-40-publish-a-learner-page.md">Prompt page</a>
+    <a class="se-action-link" href="prompts/prompt-40-publish-a-learner-page/">Prompt page</a>
     <a class="se-action-link" href="../notebooks/prompt-40-publish-a-learner-page.ipynb">Notebook</a>
     <a class="se-colab-badge" href="https://colab.research.google.com/github/SeCuReDmE-main-dev/test/blob/main/docs/notebooks/prompt-40-publish-a-learner-page.ipynb" aria-label="Open Prompt 40 in Google Colab"><span>Open in Colab</span></a>
   </div>
