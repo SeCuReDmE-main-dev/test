@@ -39,6 +39,7 @@ extra_css:
   - stylesheets/securedme-education.css
   - stylesheets/securedme-theme-toggle.css
   - stylesheets/securedme-accessibility.css
+  - stylesheets/securedme-onboarding.css
 
 extra_javascript:
   - javascripts/securedme-theme-toggle.js
@@ -67,3 +68,9 @@ plugins:
 
 nav:
   - Home: index.md
+  - Onboarding: onboarding/index.md
+  - 40 Starter Prompts: starter-prompts/index.md
+  - Notebook / Colab: notebooks/index.md
+  - Accessibility:
+      - Access Console: accessibility/edge-user-console.md
+      - Comfort Modes: accessibility/neurodivergent-comfort.md
