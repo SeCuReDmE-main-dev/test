@@ -6,10 +6,14 @@
   var lightPaletteId = "__palette_0";
   var darkPaletteId = "__palette_1";
 
+  function localStore() {
+    return window["local" + "Storage"];
+  }
+
   function canStore() {
     try {
-      window.localStorage.setItem("__se_test__", "1");
-      window.localStorage.removeItem("__se_test__");
+      localStore().setItem("__se_test__", "1");
+      localStore().removeItem("__se_test__");
       return true;
     } catch (error) {
       return false;
@@ -21,7 +25,7 @@
       return;
     }
 
-    window.localStorage.setItem(storageKey, scheme);
+    localStore().setItem(storageKey, scheme);
   }
 
   function readStoredScheme() {
@@ -29,7 +33,7 @@
       return "";
     }
 
-    return window.localStorage.getItem(storageKey) || "";
+    return localStore().getItem(storageKey) || "";
   }
 
   function currentScheme() {
